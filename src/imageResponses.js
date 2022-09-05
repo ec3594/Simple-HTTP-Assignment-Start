@@ -9,4 +9,3 @@ const getImage = (request, response) => {
 };
 
 module.exports.getImage = getImage;
-
